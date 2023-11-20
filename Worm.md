@@ -11,7 +11,7 @@
 
      <p align="center">
          <img src="img/Virusworm.jpg" />
-      </p>
+     </p>
      
 Many worms are designed only to spread, and do not attempt to change the systems they pass through. However, as the Morris worm and Mydoom showed, even these "payload-free" worms can cause major disruption by increasing network traffic and other unintended effects.
 
