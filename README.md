@@ -8,6 +8,6 @@
 
 - - -
 ## Vocabuary
-+ [Vocabulary/Key](Key)
-+ [Vocabulary/Worm](Worm)
-+ [Vocabulary/Encryption](Encryption)
++ [Key](Vocabulary/Key)
++ [Worm](Vocabulary/Worm)
++ [Encryption](Vocabulary/Encryption)
