@@ -4,15 +4,6 @@
 
   KEYS in DBMS is an attribute or set of attributes which helps you to identify a row(tuple) in a relation(table). They allow you to find the relation between        two tables. Keys help you uniquely identify a row in a table by a combination of one or more columns in that table. Key is also helpful for finding unique          record or row from the table. Database key is also helpful for finding unique record or row from the table.
 
-Example:
-| Employee ID | FirstName |  LastName |
-| :--------: | :--------: | :--------: |
-|   11   |   Andrew   |    Johnson   |
-|   12   |   Tom   |    Wood   |
-|   13   |   Alex   |    Hale   |
-
-In the above-given example, employee ID is a primary key because it uniquely identifies an employee record. In this table, no other employee can have the same     employee ID.
-
 **Why we need a Key?**
 
   Here are some reasons for using sql key in the DBMS system.
