@@ -36,7 +36,7 @@ Let’s look at each of the keys in DBMS with example:
 + Composite Key – is a combination of two or more columns that uniquely identify rows in a table. The combination of columns guarantees uniqueness, though individual uniqueness is not guaranteed.
 + Surrogate Key – An artificial key which aims to uniquely identify each record is called a surrogate key. These kind of key are unique because they are created when you don’t have any natural primary key.
   
-refer
+Reference 
 > https://www.guru99.com/dbms-keys.html
 
 - - -
