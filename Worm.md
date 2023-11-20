@@ -35,7 +35,7 @@ Mitigation techniques include:
 
 Infections can sometimes be detected by their behavior - typically scanning the Internet randomly, looking for vulnerable hosts to infect. In addition, machine learning techniques can be used to detect new worms, by analyzing the behavior of the suspected computer.
 
-refer
+Reference 
 > https://en.wikipedia.org/wiki/Computer_worm#cite_note-1
 
 - - -
