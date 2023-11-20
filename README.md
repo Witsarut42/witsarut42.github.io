@@ -7,5 +7,5 @@
 [My Image](HelloWorld)
 
 - - -
-# Vocabuary
+## Vocabuary
 + [Key](Key)
