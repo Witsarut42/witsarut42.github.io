@@ -41,7 +41,9 @@ Let’s look at each of the keys in DBMS with example:
 + Compound Key – has two or more attributes that allow you to uniquely recognize a specific record. It is possible that each column may not be unique by itself within the database.
 + Composite Key – is a combination of two or more columns that uniquely identify rows in a table. The combination of columns guarantees uniqueness, though individual uniqueness is not guaranteed.
 + Surrogate Key – An artificial key which aims to uniquely identify each record is called a surrogate key. These kind of key are unique because they are created when you don’t have any natural primary key.
-
+  
+refer
+> https://www.guru99.com/dbms-keys.html
 
 
 
@@ -118,5 +120,5 @@ Let’s look at each of the keys in DBMS with example:
      </p>
      
 อ้างอิง 
-- https://msit5.wordpress.com/2013/09/05/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%AD%E0%B8%87-%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B9%8C-key-%E0%B9%83%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%82/
-- https://cst.tsu.ac.th/courseonline/course/computer_it/database/key.html
+> https://msit5.wordpress.com/2013/09/05/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%AD%E0%B8%87-%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B9%8C-key-%E0%B9%83%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%82/
+> https://cst.tsu.ac.th/courseonline/course/computer_it/database/key.html
