@@ -1,6 +1,7 @@
 # Key
 
-- KEYS in DBMS is an attribute or set of attributes which helps you to identify a row(tuple) in a relation(table). They allow you to find the relation between      two tables. Keys help you uniquely identify a row in a table by a combination of one or more columns in that table. Key is also helpful for finding unique        record or row from the table. Database key is also helpful for finding unique record or row from the table.
+##### What are Keys in DBMS?
+  KEYS in DBMS is an attribute or set of attributes which helps you to identify a row(tuple) in a relation(table). They allow you to find the relation between      two tables. Keys help you uniquely identify a row in a table by a combination of one or more columns in that table. Key is also helpful for finding unique        record or row from the table. Database key is also helpful for finding unique record or row from the table.
 
 Example:
 | Employee ID | FirstName |  LastName |
@@ -11,14 +12,35 @@ Example:
 
 In the above-given example, employee ID is a primary key because it uniquely identifies an employee record. In this table, no other employee can have the same     employee ID.
 
-- Why we need a Key?
+##### Why we need a Key?
   Here are some reasons for using sql key in the DBMS system.
 
-+ Keys help you to identify any row of data in a table. In a real-world application, a table could contain thousands of records. Moreover,
-  the records could be duplicated. Keys in RDBMS ensure that you can uniquely identify a table record despite these challenges.
++ Keys help you to identify any row of data in a table. In a real-world application, a table could contain thousands of records. Moreover, the records could be duplicated. Keys in RDBMS ensure that you can uniquely identify a table record despite these challenges.
 + Allows you to establish a relationship between and identify the relation between tables
 + Help you to enforce identity and integrity in the relationship.
 
+##### Types of Keys in DBMS (Database Management System)
+  There are mainly Eight different types of Keys in DBMS and each key has it’s different functionality:
+
+  1. Super Key
+  2. Primary Key
+  3. Candidate Key
+  4. Alternate Key
+  5. Foreign Key
+  6. Compound Key
+  7. Composite Key
+  8. Surrogate Key
+
+Let’s look at each of the keys in DBMS with example:
+
++ Super Key – A super key is a group of single or multiple keys which identifies rows in a table.
++ Primary Key – is a column or group of columns in a table that uniquely identify every row in that table.
++ Candidate Key – is a set of attributes that uniquely identify tuples in a table. Candidate Key is a super key with no repeated attributes.
++ Alternate Key – is a column or group of columns in a table that uniquely identify every row in that table.
++ Foreign Key – is a column that creates a relationship between two tables. The purpose of Foreign keys is to maintain data integrity and allow navigation between two different instances of an entity.
++ Compound Key – has two or more attributes that allow you to uniquely recognize a specific record. It is possible that each column may not be unique by itself within the database.
++ Composite Key – is a combination of two or more columns that uniquely identify rows in a table. The combination of columns guarantees uniqueness, though individual uniqueness is not guaranteed.
++ Surrogate Key – An artificial key which aims to uniquely identify each record is called a surrogate key. These kind of key are unique because they are created when you don’t have any natural primary key.
 
 
 
@@ -62,16 +84,14 @@ In the above-given example, employee ID is a primary key because it uniquely ide
 
 
 
+คีย์ (key) ในการอ้างอิงการค้นหาการแก้ไขเปลี่ยนแปลงข้อมูล หรือการกำหนดความสัมพันธ์ระหว่างข้อมูลจะเกิดขึ้นอย่างมีประสิทธิภาพจะต้องกำหนด คีย์ (Key) ให้กับ Table ก่อน นอกจากนี้การกำหนดคีย์จะทำให้การอ้างอิงและการประมวลผลข้อมูลได้สะดวกขึ้นและยังช่วยประหยัดเนื้อที่ในการจัดเก็บคีย์ที่ใช้ในระบบฐานข้อมูลแบ่งออกได้หลายประเภทดังต่อไปนี้
 
-**คีย์ (key)**
-    - ในการอ้างอิงการค้นหาการแก้ไขเปลี่ยนแปลงข้อมูล หรือการกำหนดความสัมพันธ์ระหว่างข้อมูลจะเกิดขึ้นอย่างมีประสิทธิภาพ 
-   จะต้องกำหนด คีย์ (Key) ให้กับ Table ก่อน นอกจากนี้การกำหนดคีย์จะทำให้การอ้างอิงและการประมวลผลข้อมูลได้สะดวกขึ้น
-   และยังช่วยประหยัดเนื้อที่ในการจัดเก็บคีย์ที่ใช้ในระบบฐานข้อมูลแบ่งออกได้หลายประเภทดังต่อไปนี้
   1. Primary Key หมายถึง คีย์หลักที่กำหนดจากฟิลด์ที่ไม่มีข้อมูลซ้ำซ้อน (unique) ใน Table เดียวกันโดยเด็ดขาด
      และจะต้องมีค่าเสมอจะเป็นค่าว่าง (Null) ไม่ได้ สามารถนำมาจัดเรียงลำดับและแยกแยะข้อมูลแต่ละรายการออกจากกันได้เป็นอย่างดี
      <p align="center">
          <img src="img/primary.jpg" />
      </p>
+     
   2. Secondary Key หมายถึง คีย์รองโดยโปรแกรม Access จะเรียกคีย์ชนิดนี้ว่า Index (ดัชนี) ซึ่งเป็นคุณสมบิตหนึ่งในการกำหนดคีย์หลัก (Primary Key)
      และยังใช้ Index ในการค้นหาและจัดเรียงรายการข้อมูลที่มีจำนวนมากได้อย่างรวดเร็ว ตัวอย่างเช่น ถ้าต้องการค้นหาฟิลด์ชื่อพนักงานถ้าฟิลด์ดังกล่าวไม่กำหนด Index
      ไว้โปรแกรมจะเริ่มต้นตั้งแต่รายการแรกไปเรื่อย ๆ จนกระทั่งพบดังนั้น ถ้าชื่อพนักงานที่ต้องการค้นหาอยู่รายการท้าย ๆ จะเสียเวลาในการสืบค้นโดยเฉพาะข้อมูลที่มีจำนวนมากๆ
