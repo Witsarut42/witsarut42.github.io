@@ -1,5 +1,5 @@
 # Key
-
+- - -
 ##### What are Keys in DBMS?
   KEYS in DBMS is an attribute or set of attributes which helps you to identify a row(tuple) in a relation(table). They allow you to find the relation between      two tables. Keys help you uniquely identify a row in a table by a combination of one or more columns in that table. Key is also helpful for finding unique        record or row from the table. Database key is also helpful for finding unique record or row from the table.
 
@@ -45,6 +45,7 @@ Let’s look at each of the keys in DBMS with example:
 refer
 > https://www.guru99.com/dbms-keys.html
 
+- - -
 
 
 
@@ -121,4 +122,7 @@ refer
      
 อ้างอิง 
 > https://msit5.wordpress.com/2013/09/05/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%AD%E0%B8%87-%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B9%8C-key-%E0%B9%83%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%82/
+
 > https://cst.tsu.ac.th/courseonline/course/computer_it/database/key.html
+> 
+- - -
