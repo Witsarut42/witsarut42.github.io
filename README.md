@@ -8,4 +8,4 @@
 
 - - -
 # Vocabuary
-+ [Links](Key)
++ [Key](Key)
