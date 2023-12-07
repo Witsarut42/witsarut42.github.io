@@ -3,15 +3,13 @@
 # Witsarut Khuntangtong
 + Information Technology
 + Institute of Vocational Education : Central Region 5
-
+  
 [My Image](HelloWorld)
 
-- - -
-
 ## Certificates
+
   + [LINK Certified for Smart city & Intelligent Building (LCSI)](Certificates)
 
-- - -
 ## Vocabuary
 + [Key](Key)
 + [Worm](Worm)
