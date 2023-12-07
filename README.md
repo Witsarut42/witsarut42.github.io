@@ -9,7 +9,7 @@
 - - -
 
 ## Certificates
-  + [LINK Certified for Smart city & Intelligent Building (LCSI)](Certificate)
+  + [LINK Certified for Smart city & Intelligent Building (LCSI)](Certificates)
 
 - - -
 ## Vocabuary
