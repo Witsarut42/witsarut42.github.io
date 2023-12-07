@@ -6,7 +6,7 @@
 
 [My Image](HelloWorld)
 
-[Certified](Certificate)
+[Certificates](Certificate)
 
 - - -
 ## Vocabuary
