@@ -7,9 +7,9 @@
 [My Image](HelloWorld)
 
 ## Certificates
-+ #### LINK ®
++ ##### LINK ®
   + [LINK Certified for Smart city & Intelligent Building (LCSI)](Cert/LINK/LCSI.pdf)
-+ #### Cisco
++ ##### Cisco
   + [Introduction to Cybersecurity](Cert/Cisco/IntroductionCybersecurity.pdf)
 
 ## Vocabuary
