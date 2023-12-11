@@ -8,9 +8,9 @@
 
 ## Certificates
 + ##### LINK ®
-  + [LINK Certified for Smart city & Intelligent Building (LCSI)](Cert/LINK/LCSI.pdf)
+  - [LINK Certified for Smart city & Intelligent Building (LCSI)](Cert/LINK/LCSI.pdf)
 + ##### Cisco
-  + [Introduction to Cybersecurity](Cert/Cisco/IntroductionCybersecurity.pdf)
+  - [Introduction to Cybersecurity](Cert/Cisco/IntroductionCybersecurity.pdf)
 
 ## Vocabuary
 + [Key](Key)
