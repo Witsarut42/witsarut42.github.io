@@ -1,0 +1,1 @@
+![](img/Encode.png)
