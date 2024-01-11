@@ -1,9 +1,4 @@
 
-<p align="center">
-         <img src="img/M1.gif" />
-          <img src="img/M2.gif" />
-     </p>
-
 
 # Witsarut Khuntangtong
 + Information Technology
@@ -12,6 +7,8 @@
 [My Image](HelloWorld)
 
 [Card](Card)
+
+[PDPA](PDPA)
 
 ## Certificates
 + ##### LINK ®
