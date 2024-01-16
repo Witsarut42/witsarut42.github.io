@@ -13,6 +13,7 @@
 ## Certificates
 + ##### LINK ®
   - [LINK Certified for Smart city & Intelligent Building (LCSI)](Cert/LINK/LCSI.pdf)
+  - [LINK Certified Basic Fiber Optic Cabling (LCBF)](Cert/LINK/LCBF.pdf)
 + ##### Cisco
   - [Introduction to Cybersecurity](Cert/Cisco/IntroductionCybersecurity.pdf)
 
