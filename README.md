@@ -19,6 +19,9 @@
   - [LINK® Certified for Solar System (LCSS)](Cert/LINK/LCSS.pdf)
 + ##### Cisco 
   - [Introduction to Cybersecurity](Cert/Cisco/IntroductionCybersecurity.pdf)
++ ##### ISC2
+  - [Official ISC2 CC Online Self-Paced Training - 1M](Cert/ISC2/ISC2%201M.pdf)
+    
 
 ## Vocabuary
 + [Key](Key)
