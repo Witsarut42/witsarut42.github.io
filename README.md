@@ -21,10 +21,8 @@
   - [Introduction to Cybersecurity](Cert/Cisco/IntroductionCybersecurity.pdf)
 + ##### ISC2
   - [Official ISC2 CC Online Self-Paced Training - 1M](Cert/ISC2/ISC2%201M.pdf)
-+ ##### eLife Systems
-  - [eLife Systems Course Certificate - AD Advance](Cert/eLife%20Systems/AD%20Advance.pdf)
-  - [eLife Systems Course Certificate - DNS Basic](Cert/eLife%20Systems/DNS%20Basic.pdf)
-  - [eLife Systems Course Certificate - Migrate AD](Cert/eLife%20Systems/Migrate%20AD.pdf)
++ ##### Security Blue Team
+  - [Introduction to Dark Web Operations](Cert/Introduction-to-Dark-Web-Operations-Course/Introduction-to-Dark-Web-Operations-course.pdf)
     
 
 ## Vocabuary
