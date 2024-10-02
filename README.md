@@ -29,3 +29,10 @@
 + [Key](Key)
 + [Worm](Worm)
 + [Encryption](Encryption)
+
+## Digital Badges
+  [Fundamentals of Predictive Project Management](https://www.credly.com/badges/9f00d41c-64df-4296-af81-c4a589fb3ee3)
+  
+  [Fundamentals of Agile Project Management](https://www.credly.com/badges/6c2d5e1d-faee-431e-ae89-d7149fa6a6f9)
+
+  [Generative AI Overview for Project Managers](https://www.credly.com/badges/d4dcfdee-4e7c-429c-b043-794290b20751)
